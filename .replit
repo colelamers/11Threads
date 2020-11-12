@@ -1,0 +1,1 @@
+run="clang++-7 -pthread -std=c++17 -o thread Source.cpp && ./thread"
